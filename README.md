@@ -19,6 +19,9 @@ If you would like to disable or restrict location sharing, you can do so within 
 
 Advertising partners and other third parties may use cookies, scripts and/or web beacons to track   "user" activities on this  "app" in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This  "app" has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
 
+## Personal data
+including user names, photos  and phone numbers, are transmitted from our app via WhatsApp in order to communicate with us. This data is transmitted securely using encryption to protect against unauthorized access.
+ WhatsApp is the third party that facilitates the transmission of this data, and it is subject to its own privacy policy and data protection measures. Users have the option to opt-out of data transmission via WhatsApp by adjusting their settings within the app. We take the protection of personal data seriously and are committed to complying with all relevant data protection laws and regulations.
 
 ## Links to Third Party Websites
 
