@@ -1,4 +1,4 @@
-# depani-privacy-policy-04-2023
+# depani-privacy-policy-06-2023
 
 We takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
 
@@ -36,7 +36,7 @@ We take the privacy and security of your personal data seriously and will only c
 
 ## Changes To This Privacy Policy
 
-This Privacy Policy is effective as of [03.2023] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+This Privacy Policy is effective as of [06.2023] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
 "We" reserve the right to update or change "our" Privacy Policy at any time and you should check this Privacy Policy periodically. If "we" make any material changes to this Privacy Policy, "we" will notify you either through the email address you have provided "us" , or by placing a prominent notice on "our"   "app".
 
